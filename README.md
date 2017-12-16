@@ -1,3 +1,15 @@
+# Using this template to set up a new project
+
+Use the template using on Mac/Linux:
+
+```
+git clone --depth 1 https://github.com/stho32/ProjectTemplate-Empty.git <your-project-dir>
+cd <your-project-dir>
+rm -rf .git/
+git init
+code .
+```
+
 # Project
 
 See [requirements](Documentation/Requirements.md) for the instructions.
